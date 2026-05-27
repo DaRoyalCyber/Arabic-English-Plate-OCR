@@ -1,4 +1,4 @@
-Arabic & English License Plate Recognition System (OCR) 🚗🔍
+ License Plate Recognition System (OCR) 🚗🔍
 
 This project represents a professional implementation of Optical Character Recognition (OCR) and Computer Vision techniques to automate the detection and recognition of vehicle license plates in both Arabic and English.
 
