@@ -4,7 +4,7 @@ This project represents a professional implementation of Optical Character Recog
 
  Project Overview
 
-This project was developed as a graduation project and is designed to handle the complexity of different fonts and license plate styles used in Saudi Arabia.
+This project was developed as a graduation project and is designed to handle the complexity of different fonts and license plate styles.
 
  Technical Highlights
 
